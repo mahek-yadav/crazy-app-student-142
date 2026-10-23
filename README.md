@@ -3,8 +3,7 @@
 **Created by:** Mahek Yadav  
 **Student Number:** 142  
 
-🔗 **Live Demo:** [Paste Your Live GitHub Pages URL Here]
-
+🔗 **Live Demo:** https://neon-hacker-terminal--mahekyadav2306.replit.app
 ## 🚀 About the Project
 
 Neon Hacker Terminal is an interactive, cyberpunk-style web application created using HTML, CSS, and JavaScript. It features a neon-green interface, a simulated hacking console, a progress bar, and an exciting secret cipher mini-game.
